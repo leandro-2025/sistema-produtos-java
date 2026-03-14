@@ -30,3 +30,15 @@ src
 ## Objetivo
 
 Este projeto faz parte do meu processo de aprendizado em Java e desenvolvimento backend.
+
+## Como executar o projeto
+
+1. Clone o repositório
+
+git clone https://github.com/leandro-2025/sistema-produtos-java
+
+2. Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
+
+3. Execute a classe Main.java
+
+4. Utilize o menu no terminal para cadastrar, listar, atualizar ou remover produtos.
